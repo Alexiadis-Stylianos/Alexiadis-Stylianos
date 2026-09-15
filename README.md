@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Stylianos Alexiadis
 
-<!--
-**Alexiadis-Stylianos/Alexiadis-Stylianos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer with a Bachelor's Degree in Applied Informatics.
 
-Here are some ideas to get you started:
+My academic background includes Java, data structures, algorithms, and software development fundamentals, while my personal projects have focused primarily on JavaScript and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- JavaScript
+- React
+- Java
+- C
+- SQL
+
+## Featured Project
+
+### Monster Horde Shop
+
+A React e-commerce-style application where users can browse, customize, purchase, and manage monsters.
+
+**Technologies:** React, JavaScript, React Router, LocalStorage, Vite
+
+[View the repository](https://github.com/Alexiadis-Stylianos/monster-app)
